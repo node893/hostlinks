@@ -4,3 +4,5 @@ backend:  https://sec25restapi.herokuapp.com/
 frontend: https://sec25restapi.web.app/
 
 node5@Complete
+
+`mongodb+srv://${process.env.Mongo_User}:${process.env.Mongo_password}@cluster0.eplmt.mongodb.net/messages?retryWrites=true&w=majority`
