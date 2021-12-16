@@ -1,8 +1,91 @@
-backend:  https://sec25restapi.herokuapp.com/
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/webshop
 
 
-frontend: https://sec25restapi.web.app/
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/messages
+
+
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/gmessages
+
+
+mongodb+srv://Nodeuser:nodeguide@cluster0.eplmt.mongodb.net/messages?retryWrites=true&w=majority
+
+
+NodeJS:
+-------
+
+
+https://node-complete-app.herokuapp.com/login
+
+backend:  https://sec25restapi.herokuapp.com/             (https://github.com/node893/sec25restapi)
+frontend: https://sec25restapi.web.app/                   (https://github.com/node893/sec25restapi-frontend)
 
 node5@Complete
 
-`mongodb+srv://${process.env.Mongo_User}:${process.env.Mongo_password}@cluster0.eplmt.mongodb.net/messages?retryWrites=true&w=majority`
+
+
+ReactJS:
+-------
+
+
+https://host-expense-tracker.web.app/
+
+https://host-form-without-useeffect.web.app/
+
+https://host-login-form-with-useeffect.web.app/
+
+https://host-lform-with-usereducer.web.app
+
+https://host-lform-with-contextapi.web.app
+
+https://host-username-age-form.web.app/
+
+https://host-movies-list-using-http.web.app/
+
+https://host-counter-with-custom-hook.web.app
+
+https://host-counter-withlogin-reduxjs.web.app/
+
+https://hosting-route-reactjs.web.app/
+
+
+
+Github Links:
+-------------
+
+online-shop:                                
+-    https://github.com/node893/node-complete-app
+
+expense-tracker                             
+-    https://github.com/Salman893/expense-tracker
+
+login-form-without-useEffect                
+-    https://github.com/Salman893/login-form-without-useEffect.git
+
+login-form-with-useEffect                   
+-    https://github.com/Salman893/login-form-with-useEffect.git
+
+login-form-with-useReducer                  
+-    https://github.com/Salman893/login-form-with-useReducer
+
+login-form-with-context-api                 
+-    https://github.com/Salman893/login-form-with-context-api
+
+username-age-form                           
+-    https://github.com/Salman893/username-age-form
+
+movies-list                                 
+-    https://github.com/Salman893/movies-list.git
+
+counter-with-custom-hook                    
+-    https://github.com/Salman893/counter-with-custom-hook
+
+counter-with-form-using-reduxjs-toolkit     
+-    https://github.com/Salman893/counter-with-form-using-reduxjs-toolkit
+
+route-in-reactjs                            
+-    https://github.com/Salman893/route-in-reactjs
+
+
+
+
+
