@@ -14,7 +14,7 @@ NodeJS:
 -------
 
 
-https://node-complete-app.herokuapp.com/login
+https://node-complete-shopapp.herokuapp.com/                (https://github.com/node893/node-complete-shopapp)
 
 
 backend:  https://sec25restapi.herokuapp.com/               (https://github.com/node893/sec25restapi)
