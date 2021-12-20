@@ -25,9 +25,6 @@ backend:  https://posts-graphql-backend.herokuapp.com/      (https://github.com/
 frontend: https://posts-graphql-frontend.web.app/           (https://github.com/node893/posts-graphql-frontend)
 
 
-node5@Complete
-
-
 
 ReactJS:
 -------
@@ -93,5 +90,7 @@ route-in-reactjs
 
 
 
+node5@Complete
+heroku, firebase, github: rv893
 
 
